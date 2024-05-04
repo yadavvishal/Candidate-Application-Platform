@@ -66,3 +66,8 @@ Follow these steps to get your development environment running:
    ```bash
      npm start
 This will start the local server, usually on port 3000. Your default web browser should open automatically to http://localhost:3000. If it doesn't, you can manually open a browser and enter this URL.
+
+SNAPSHOTS
+
+![Screenshot from 2024-05-05 01-27-11](https://github.com/yadavvishal/Candidate-Application-Platform/assets/90525000/2b9f2628-216c-40af-a33a-7877fb72d3c3)
+
