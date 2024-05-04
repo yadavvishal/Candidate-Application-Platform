@@ -71,3 +71,5 @@ This will start the local server, usually on port 3000. Your default web browser
 
 ![Screenshot from 2024-05-05 01-27-11](https://github.com/yadavvishal/Candidate-Application-Platform/assets/90525000/2b9f2628-216c-40af-a33a-7877fb72d3c3)
 
+![Screenshot from 2024-05-05 01-27-54](https://github.com/yadavvishal/Candidate-Application-Platform/assets/90525000/50343ddf-84ff-4685-a278-31832966f30c)
+
